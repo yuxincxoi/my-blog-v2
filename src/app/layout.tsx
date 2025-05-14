@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Blog",
+  title: "Yujin's Blog",
   description: "A Notion-powered blog built with Next.js App Router",
 };
 

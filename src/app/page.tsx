@@ -16,7 +16,7 @@ export default async function Home() {
 
   return (
     <div>
-      <h1>My Notion Blog</h1>
+      <h1>{`Yujin's Blog`}</h1>
       {posts.map((post) => (
         <div key={post.id}>
           <p>{post.title}</p>
